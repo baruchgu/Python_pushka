@@ -7,7 +7,6 @@ Create python script file where you:
 - Define variable of your pet,(children can be considered as pets) with value of your pets name
 - Save the file and run it
 
-
 ## Task 2
 Create python script file where you:
 - Create variable for holding your name 
