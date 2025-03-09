@@ -11,7 +11,7 @@
 # - add id (or any number) of your connection to my_con variable and re-print it,
 #
 # Date:09/03/2025                                                                                                                                   #
-# Version: 0.0.1
+# Version: 1.0.0
 ############################################################
 
 wifi_name = "wifi3337"

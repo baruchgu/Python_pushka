@@ -9,11 +9,11 @@
 #- Define variable of your pet, children can be considered as pets. with value of your pets name
 #- Save the file and run it
 # Date: 09/03/2025                                                                                                                                   #
-# Version: 0.0.1
+# Version: 1.0.0
 ############################################################
-
+import os
 
 my_name   = "Baruch Gudesblat"
-nick_name = env{'USER'}
+nick_name = os.environ['USER']
 chld_name = "Dudi"
 

@@ -12,7 +12,7 @@
 # - print() them away
 # - Save the file and run it
 # Date:09/03/2025                                                                                                                                   #
-# Version: 0.0.1
+# Version: 1.0.0
 ############################################################
 from datetime import date
 
