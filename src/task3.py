@@ -25,7 +25,7 @@ my_card = dict(
    valid = "12/2025",
    icv   = "010",
 )
-print(f"Shalom.\n\nMy wife's anem is {my_wife}. She is {her_age} years old.")
+print(f"Shalom.\n\nMy wife's name is {my_wife}. She is {her_age} years old.")
 print(f"My credit card is:")
 for key, value in my_card.items():
     print(f"\t{key}: {value}")
