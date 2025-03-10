@@ -1,4 +1,6 @@
-[![Test](https://img.shields.io/badge/Python%20home%20practice-8A2BE2)]([https://](https://img.shields.io/badge/Python%20class%20practice-8A2BE2)) [![GitHub contributors](https://img.shields.io/github/contributors/mendelsontal/python_class_practice)](https://github.com/mendelsontal/python_class_practice/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/mendelsontal/python_class_practice/issues)
+[![Test](https://img.shields.io/badge/Python%20home%20practice-8A2BE2)]([https://](https://img.shields.io/badge/Python_pushka-8A2BE2))
+[![GitHub contributors](https://img.shields.io/github/contributors/baruchgu/Python_pushka)](https://github.com/baruchgu/Python_pushka/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/baruchgu/Python_pushka/issues)
 # Python Scripting - Practicies Tasks
 <!-- ABOUT THE PROJECT -->
 ![Python course pic](https://www.mooc.org/hubfs/python-applications.jpg)
@@ -28,7 +30,7 @@ This project is designed to hold and demonstrate the basic Python Scripting prac
 ```
 
 <!-- CONTRIBUTERS -->
-## 👥 Contributers
+## 👥 Contributer
 * [Baruch](https://github.com/baruchgu) - Owner
 
 ## 🌐 Links
