@@ -14,6 +14,7 @@ This project is designed to hold and demonstrate the basic Python Scripting prac
   - 📄 <span style="display: inline-block; margin-right: 20px;">[README.md](./README.md)</span> Project overview
   - 📄 <span style="display: inline-block; margin-right: 20px;">[task.md](./task.md)</span> The task description
   - 📄 <span style="display: inline-block; margin-right: 20px;">[LICENSE](./LICENSE)</span> MIT License note
+  - 📄 <span style="display: inline-block; margin-right: 20px;">[CONTRIBUTORS](./CONTRIBUTORS.md)</span> 
   - **📂 <span style="display: inline-block; margin-right: 20px;">[src/](./src)</span>** Python files  
     - 📜 <span style="display: inline-block; margin-right: 20px;">[task1.py](./src/task1.py)</span>  Practice 1
     - 📜 <span style="display: inline-block; margin-right: 20px;">[task2.py](./src/task2.py)</span>  Practice 2
@@ -29,8 +30,8 @@ This project is designed to hold and demonstrate the basic Python Scripting prac
 %> ./Python_pushka/src/task4.py
 ```
 
-<!-- CONTRIBUTERS -->
-## 👥 Contributer
+<!-- CONTRIBUTORS -->
+## 👥 Contributor
 * [Baruch](https://github.com/baruchgu) - Owner
 
 ## 🌐 Links
